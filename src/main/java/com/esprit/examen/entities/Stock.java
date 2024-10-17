@@ -37,4 +37,6 @@ public class Stock implements Serializable {
 		this.qteMin = qteMin;
 	}
 
+    public Object getLibelleStock() { return null;
+    }
 }
